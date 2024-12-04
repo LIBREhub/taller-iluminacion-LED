@@ -1,0 +1,63 @@
+Affiliation: LIBRE-hub
+Authors:
+  - Vicente Parot
+  - Sofía Farfán
+  - Matías Hurtado-Labarca
+AutoCompleteSubNav: false
+CustomCategories:
+  Consumable:
+    DisplayName: Consumables
+    Reuse: true
+  Electronic:
+    DisplayName: Electronic Components
+    Reuse: false
+  LasercutPart:
+    DisplayName: Laser cut Parts
+    Reuse: true
+  Material:
+    DisplayName: Materials
+    Reuse: false
+  Mechanic:
+    DisplayName: Mechanical Components
+    Reuse: false
+  Optical:
+    DisplayName: Optical Components
+    Reuse: false
+  PrintedPart:
+    DisplayName: Printed Parts
+    Reuse: false
+  PrintedTool:
+    DisplayName: Printed Tools
+    Reuse: true
+  SubAssembly:
+    DisplayName: Sub-Assemblies
+    Reuse: false
+DefaultCategory: part
+HoverColor: '#859cb9'
+IncludeSearch: true
+License: CERN-OHL-W-2.0
+LicenseFile: LICENSE.md
+Navigation:
+  - Link: Componentes.md
+    Title: Componentes
+  - Link: Instrucciones.md
+    SubNavigation:
+      - Link: EtapaUno.md
+        Title: Etapa 1
+      - Link: Etapa_2.md
+        Title: Etapa 2
+      - Link: Etapa_3.md
+        Title: Etapa 3
+      - Link: Etapa_4.md
+        Title: Etapa 4
+      - Link: Etapa_5.md
+        Title: Etapa 5
+      - Link: Etapa_6.md
+        Title: Etapa 6
+      - Link: Etapa_7.md
+        Title: Etapa 7
+    Title: Instrucciones de armado
+PrimaryColor: '#2e3d5c'
+SecondaryColor: '#c8c8c8'
+RemoveImagesBorder: true
+RemoveImagesBackground: true
