@@ -20,7 +20,7 @@ El kit que contiene lo siguiente:
 1 |Disipador metálico mecanizado |$ 1.43
 2 |[Plástico sujetador tubo](TubeHolder) |$ 0.28
 1 |Pantalla de cartón |$ 0.31
-2 |Plástico sujetador de cartón |$ 0.66
+2 |[Plástico sujetador de cartón](Sujeta_Carton) |$ 0.66
 1 |Cinta termo conductora |$ 0.00
 |-|| |
 |-|Costo por kit |$ 63.86
