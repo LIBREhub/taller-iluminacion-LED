@@ -1,8 +1,4 @@
-# Test run
-
-
 # Taller de iluminación LED
-# LED de bajo costo
 
 
 ![](images/Producto.jpg)
