@@ -17,13 +17,3 @@
 *  [Printables](https://www.printables.com/@WenzelLab/models) &  [Thingiverse](https://www.thingiverse.com/libre-hub/designs)
 * [LIBREhub website](https://librehub.github.io/),  
 * [IIBM website](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/799-vicente-parot)
-
-
-##License:
-This project is Open Source Hardware - please acknowledge us when using the hardware or sharing modifications.
-
-
-
-
-
-
