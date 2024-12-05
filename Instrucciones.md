@@ -3,13 +3,13 @@
 ![](images/Posicionar_guia.png)
 
 ##Etapas
-####1)  [Ensamblar el  enchufe](EtapaUno)
-####2) [Conexiones al driver](Etapa_2)
-####3) [Construir herramienta para asegurar elementos ópticos](Etapa_3)
-####4) [Construir el módulo LED](Etapa_4)
-####5) [Conectar módulo LED al driver](Etapa_5)
-####6) [Configurar el driver](Etapa_6)
-####7) [Conexión AC y pruebas de enfoque](Etapa_7)
+####1)  [Ensamblar el  enchufe](EtapaUno.md)
+####2) [Conexiones al driver](Etapa_2.md)
+####3) [Construir herramienta para asegurar elementos ópticos](Etapa_3.md)
+####4) [Construir el módulo LED](Etapa_4.md)
+####5) [Conectar módulo LED al driver](Etapa_5.md)
+####6) [Configurar el driver](Etapa_6.md)
+####7) [Conexión AC y pruebas de enfoque](Etapa_7.md)
 
 >!! Es muy importante NO conectar el driver a la corriente AC hasta asegurar que todos los otros componentes están conectados correctamente y firmemente, de lo contrario se corre el riesgo de quemar el LED.
 
