@@ -1,5 +1,6 @@
-##Componentes
-El kit contiene lo siguiente:
+#Componentes
+
+El kit contiene:
 
 |Qty| Componente|Especificaciones|Proveedor|Precio por kit (USD)|
 |---|---|---|---|---|
@@ -29,5 +30,5 @@ El kit contiene lo siguiente:
 
 ---
 
->i La informacion de los proveedores fue actualizada por ultima vez en Octubre de 2024
+>i La informacion de los proveedores fue utilizada para el taller de [Modular Color LED Illumination for Microscopy](https://librehub.github.io/2024/06/12/led-illum-ws.html) el 11 de Octubre de 2024
 
