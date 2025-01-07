@@ -12,9 +12,9 @@
 ---
 
 ##Siguenos en redes:
-* [YouTube](https://www.youtube.com/@librehub>), 
+* [YouTube](https://www.youtube.com/@librehub), 
 * [LinkedIn](https://www.linkedin.com/company/92802424), 
-*   [Instagram](https://www.instagram.com/wenzellab/), 
+*   [Instagram](https://www.instagram.com/wenzellab), 
 *  [Printables](https://www.printables.com/@WenzelLab/models) &  [Thingiverse](https://www.thingiverse.com/libre-hub/designs)
-* [LIBREhub website](https://librehub.github.io/),  
+* [LIBREhub website](https://librehub.github.io),  
 * [IIBM website](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/799-vicente-parot)
